@@ -6,7 +6,7 @@ const MySkills = () => {
         <>
         
         <section className='text-gray-700 border-t border-gray-200' id="skills">
-        <div className='text-center'>
+        <div className='text-center pt-5'>
         <h1 className='text-2xl sm:text-3xl font-medium mb-4 text-gray-900'>My Skills</h1>
         </div>
             <div className='container px-5 py-4 mx-auto flex flex-wrap'>
