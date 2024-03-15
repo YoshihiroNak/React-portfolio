@@ -17,16 +17,15 @@ const Cards = () => {
                             </h2>
                         </div>
                         <div>
-                            <p>
+                            <p className='mb-3'>
                                 MovieMaestro can reduce the time scrolling through
                                 different streaming platforms by selecting through
                                 the many filter options.
                                 Built using MERN as a team.
                             </p>
-                            <a href="https://moviemaestro.netlify.app" className='flex mt-3 text-green-500 items-center hover:text-green-400 duration-300'>See more
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#7ed321" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                    <path d="M5 12h13M12 5l7 7-7 7" />
-                                </svg>
+                            <a href="https://moviemaestro.netlify.app" target="_blank" rel="noopener noreferrer"
+                                className=' text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-3 py-1.5 dark:bg-green-600 dark:hover:bg-green-700 focus:outline-none dark:focus:ring-green-800 duration-300'>
+                                See more
                             </a>
                         </div>
                     </div>
@@ -43,15 +42,14 @@ const Cards = () => {
                             </h2>
                         </div>
                         <div>
-                            <p>
+                            <p className='mb-3'>
                                 API application as a group journal where users can
                                 communicate with each other.
                                 Built using Python, PostgreSQL and Flask.
                             </p>
-                            <a href="https://github.com/YoshihiroNak/T2A2-API-Webserver-Project" className='flex mt-3 text-green-500 items-center hover:text-green-400 duration-300'>See more
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#7ed321" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                    <path d="M5 12h13M12 5l7 7-7 7" />
-                                </svg>
+                            <a href="https://github.com/YoshihiroNak/T2A2-API-Webserver-Project" target="_blank" rel="noopener noreferrer"
+                                className=' text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-3 py-1.5 dark:bg-green-600 dark:hover:bg-green-700 focus:outline-none dark:focus:ring-green-800 duration-300'>
+                                See more
                             </a>
                         </div>
                     </div>
@@ -68,13 +66,12 @@ const Cards = () => {
                             </h2>
                         </div>
                         <div>
-                            <p>
+                            <p className='mb-3'>
                                 This is my first portfolio website built with HTML and CSS. It contains about myself and how to get into contact with me.
                             </p>
-                            <a href="https://website-portfolio-lovat.vercel.app/" className='flex mt-3 text-green-500 items-center hover:text-green-400 duration-300' >See more
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#7ed321" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                    <path d="M5 12h13M12 5l7 7-7 7" />
-                                </svg>
+                            <a href="https://website-portfolio-lovat.vercel.app/" target="_blank" rel="noopener noreferrer"
+                                className=' text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-3 py-1.5 dark:bg-green-600 dark:hover:bg-green-700 focus:outline-none dark:focus:ring-green-800 duration-300' >
+                                See more
                             </a>
                         </div>
                     </div>
